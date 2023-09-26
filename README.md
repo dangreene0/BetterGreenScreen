@@ -5,7 +5,7 @@ Distributed by Sour Dani.
 
 Extract or move the **BetterGreenScreen** folder from this zip to your `tf/custom` folder.
 
-It makes the background behind weapons and skins larger and green, prevents them from spinning, as well as a revised slimmed down UI.
+A tool HUD that offers a larger green screen, prevents models from spinning, with a slimmed down UI.
 
 [Full guide available on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2224490198)
 
