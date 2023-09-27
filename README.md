@@ -1,5 +1,5 @@
 # Better Green Screen
-v1.0 9/9/20
+v1.1 9/26/26
 This mod was created by Wiethoofd.
 Distributed by Sour Dani.
 
@@ -25,7 +25,7 @@ A tool HUD that offers a larger green screen, prevents models from spinning, wit
 `info.vdf`
 - This file loads the HUD.
 
-## Info
+## FAQ/Info
 **Enable spinning animation**
 - If you wish to turn the war paint spin animation on, set `tf_item_inspect_model_auto_spin` to `1` in console.
 
