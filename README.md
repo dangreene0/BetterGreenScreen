@@ -13,7 +13,7 @@ A tool HUD that offers a larger green screen, prevents models from spinning, wit
 
 `resource\ui\econ\inspectionpanel.res` 
 - This file creates the dynamic and larger greenscreen.
-(If you have a mod that already changes this file this mod may take priority.)
+    - If you have a mod that already changes this file this mod may take priority.)
 
 `cfg\bettergreenscreen.cfg`
 - Contains `tf_item_inspect_model_auto_spin 0`
@@ -33,6 +33,9 @@ A tool HUD that offers a larger green screen, prevents models from spinning, wit
 - If you wish to change the color of the greenscreen, go to the mod folder, navigate to `resource/ui/econ/InspectionPanel.res` and open it in any text editor.
 - Look for `"bgcolor_override" "0 255 0 255"` on line 21, and change those RGBA values accordingly.
 - Save the file and launch Team Fortress 2 to enjoy your new background color.
+
+**Enable zooming**
+- Navigate to `resource/ui/econ/InspectionPanel.res` on line 153, and change `"allow_manip"` from `"0"` to `"1"`
 
 ---
 Thanks for downloading! Enjoy!

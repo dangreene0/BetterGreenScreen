@@ -150,7 +150,7 @@
 		"force_use_model"		"1"
 		"use_item_rendertarget" 	"0"
 		"allow_rot"			"1"
-		"allow_manip"			"0"
+		"allow_manip"			"0" // Change to 1 to enable zoom
 		"allow_pitch"			"1"
 		"max_pitch"			"360000"
 		"use_pedestal"			"1"
