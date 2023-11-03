@@ -1,7 +1,7 @@
 # Better Green Screen
 v1.1 9/26/23
 This mod was created by Wiethoofd.
-Distributed by Sour Dani.
+Maintained by Sour Dani.
 
 Extract or move the **BetterGreenScreen** folder from this zip to your `tf/custom` folder.
 
