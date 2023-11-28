@@ -687,7 +687,7 @@
 			"default"		"1"
 			"NumericInputOnly"	"1"
 			"bgcolor_override"	"0 0 0 120"
-			"maxchars"		"18"
+			"maxchars"		"20"
 			"proportionaltoparent"	"1"
 			"autowide_to_contents"	"1"
 
