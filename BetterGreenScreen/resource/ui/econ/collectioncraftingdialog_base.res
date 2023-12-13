@@ -393,6 +393,16 @@
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"0 0 0 0"
+		
+		"InspectionPanel"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"InspectionPanel"
+			"tall"			"0"
+
+			// Change the RGBA colors of the green screen/background here
+			"bgcolor_override"		"0 255 0 255"
+		}
 	
 		"YouTradedForLabel"
 		{
