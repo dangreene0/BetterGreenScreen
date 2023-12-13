@@ -1,7 +1,6 @@
 # Better Green Screen
-v1.1 9/26/23
-This mod was created by Wiethoofd.
-Maintained by Sour Dani.
+v1.2 12/12/23
+This mod was created by Wiethoofd and is maintained by Sour Dani.
 
 Extract or move the **BetterGreenScreen** folder from this zip to your `tf/custom` folder.
 
@@ -15,12 +14,9 @@ A tool HUD that offers a larger green screen, prevents models from spinning, wit
 - This file creates the dynamic and larger greenscreen.
     - If you have a mod that already changes this file this mod may take priority.)
 
-`cfg\bettergreenscreen.cfg`
+`cfg\valve.rc`
 - Contains `tf_item_inspect_model_auto_spin 0`
     - This console command prevents the weapon from spinning.
-
-`cfg\valve.rc`
-- Tells the game to run `bettergreenscreen.cfg` on startup.
 
 `info.vdf`
 - This file loads the HUD.
